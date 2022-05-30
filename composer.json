@@ -1,5 +1,5 @@
 {
-    "name": "plexi/artisan-obfuscator",
+    "name": "saperx/artisan-obfuscator",
     "description": "Ofuscador de código PHP para projetos feitos com Laravel.",
     "keywords": ["laravel","obfuscating","artisan"],
     "license": "MIT",
@@ -7,11 +7,15 @@
         {
             "name": "Ricardo Pereira",
             "email": "rpdesignerfly@gmail.com"
+        },
+        {
+            "name": "Willian de Souza",
+            "email": "willian.souza@saperx.com.br"
         }
     ],
     "require": {
         "php": ">=7.1",
-        "plexi/light-obfuscator": ">=1.0.0"
+        "saperx/light-obfuscator": ">=1.0.0"
     },
     "autoload": {
         "psr-4": {
